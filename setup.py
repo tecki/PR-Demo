@@ -3,7 +3,7 @@ from distutils.core import setup
 
 import setuptools
 
-with open('README.md') as fp:
+with open('README.rst') as fp:
     long_description = fp.read()
 
 setup(name='pr_demo',
